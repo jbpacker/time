@@ -1,2 +1,3 @@
-# time
-timeseries prediction for crypto
+# Timeseries Crypto Prediction
+
+Train and compare models to predict crytpo prices.
